@@ -1,0 +1,36 @@
+
+" colorscheme evening_sn
+colorscheme baycomb
+
+:set guioptions+=a
+:set guioptions-=r
+:set guioptions-=L
+
+":set guifont=Luxi\ Mono\ 6
+":set guifont=Luxi\ Mono\ 7
+":set guifont=Luxi\ Mono\ 8
+":set guifont=Monospace\ 8
+":set guifont=Courier\ 10\ Pitch\ 8
+":set guifont=-adobe-courier-medium-r-normal-*-*-100-*-*-m-*-iso10646-1
+":set guifont=-bitstream-bitstream\ vera\ sans\ mono-medium-r-normal-*-*-70-*-*-m-*-microsoft-cp1252
+":set guifont=DejaVu\ Sans\ Mono\ 7
+":set guifont=Fixed\ 7
+":set guifont=LucidaTypewriter\ Medium\ 7.5
+":set guifont=Liberation\ Mono\ 7.5
+
+":set guifont=Bitstream\ Vera\ Sans\ Mono\ 7.5
+":set guifont=Bitstream\ Vera\ Sans\ Mono\ 10
+":set guifont=DejaVu\ Sans\ Mono\ 7
+
+:set guifont=Liberation\ Mono\ 7.5
+
+
+:set encoding=UTF-8
+
+:set nobackup
+:set nowritebackup
+
+:set fileformat=unix
+:set background=dark
+
+:winsize 99 34
